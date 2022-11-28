@@ -583,7 +583,7 @@ display: none;
   border-radius: 5px;
   color: #fff;
   padding: 6px 12px;
-  transition: background-color all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
 }
 
 .item-tabs__option:hover {
@@ -863,7 +863,7 @@ display: none;
   row-gap:30px;
 }
 
-@media (max-width:991.98) {
+@media (max-width:991.98px) {
   .footer-reviews {flex-wrap: wrap;row-gap: 30px;}
 }
 
