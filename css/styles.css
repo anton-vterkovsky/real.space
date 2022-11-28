@@ -279,7 +279,7 @@ body {
 .body-main-block__arrow.swiper-button-next
  {
   position: static;
-  background: url(./img/slider/arr.png) 0 0/100% no-repeat;
+  background: url(img/slider/arr.png) 0 0/100% no-repeat;
   height: 50px;
   width: 50px;
 }
@@ -377,7 +377,7 @@ display: none;
   width: 210px;
   height: 4px;
   max-width: 210px;
-  background: url(./img/line-next.png) 0 0 / auto 100% no-repeat;
+  background: url(img/line-next.png) 0 0 / auto 100% no-repeat;
   transform: translate(86%,0px);
 }
 
