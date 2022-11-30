@@ -252,12 +252,12 @@ body {
 
 /*============================================*/
 
-.slider-main-block___slide {
+.slider-main-block__slide {
   position: relative;
   padding-bottom: 95%;
 }
 
-.slider-main-block___slide img {
+.slider-main-block__slide img {
   position: absolute;
   top: 0;
   left: 0;
